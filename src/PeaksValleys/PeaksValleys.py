@@ -1,6 +1,6 @@
 # Modules
 
-import pandas as pd, itertools, random
+import itertools
 
 
 # Detect Peaks and Valleys
