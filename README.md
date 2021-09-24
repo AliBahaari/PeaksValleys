@@ -3,6 +3,11 @@
 Consider you have a list containing multiple numbers. By using ***PeaksValleys*** package, you can find and detect peaks and valleys.
 
 
+## Screenshots
+
+![PeaksValleys Screenshot](https://user-images.githubusercontent.com/8419324/134659955-6ad34a8a-df35-4c7c-bdf5-de7e0bb6e643.png)
+
+
 ## Usage
 
 ```python
